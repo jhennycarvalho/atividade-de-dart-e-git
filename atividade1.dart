@@ -6,4 +6,5 @@ void main() {
 
   numeros.removeAt(5); 
   print("Lista após remover o valor da posição 5: $numeros");
+  
 }
